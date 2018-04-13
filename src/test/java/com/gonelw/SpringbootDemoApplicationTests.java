@@ -13,7 +13,7 @@ public class SpringbootDemoApplicationTests {
 	@RequestMapping("/")
 	@ResponseBody
 	String home() {
-		return "111he222llo world";
+		return "111he222llo world687687";
 	}
 
 	public static void main(String[] args) throws Exception {
